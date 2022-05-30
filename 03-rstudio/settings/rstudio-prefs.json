@@ -1,0 +1,42 @@
+{
+    "initial_working_directory": "~",
+    "margin_column": 100,
+    "editor_theme": "caerolus",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "Console",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Build",
+            "Viewer"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "windows_terminal_shell": "win-git-bash",
+    "jobs_tab_visibility": "shown",
+    "rmd_viewer_type": "pane",
+    "graphics_backend": "windows",
+    "font_size_points": 11,
+    "auto_append_newline": true,
+    "line_ending_conversion": "posix",
+    "default_encoding": "UTF-8",
+    "save_files_before_build": true
+}
