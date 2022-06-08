@@ -45,7 +45,7 @@
 .ace_keyword,
 .ace_meta.ace_tag,
 .ace_storage {
-  color: #F92672
+  color: #24f94c
 }
 .ace_punctuation,
 .ace_punctuation.ace_tag {
@@ -99,7 +99,7 @@
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWPQ0FD0ZXBzd/wPAAjVAoxeSgNeAAAAAElFTkSuQmCC) right repeat-y
 }
 .nocolor.ace_editor .ace_line span {
-  color: #f92672 !important;
+  color: #24f94c !important;
 }
 .ace_bracket {
   margin: 0 !important;

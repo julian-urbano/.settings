@@ -7,5 +7,9 @@ git clone https://github.com/jonschlinkert/sublime-monokai-extended.git "%appdat
 rmdir /S /Q "%appdata%\Sublime Text\Packages\sublime-markdown-extended"
 git clone https://github.com/jonschlinkert/sublime-markdown-extended.git "%appdata%\Sublime Text\Packages\sublime-markdown-extended"
 
+rmdir /S /Q "%appdata%\Sublime Text\Packages\rainbow_csv"
+git clone https://github.com/mechatroner/sublime_rainbow_csv.git "%appdata%\Sublime Text\Packages\rainbow_csv"
+
+
 curl -o "%appdata%\Sublime Text\Installed Packages\Package Control.sublime-package" https://packagecontrol.io/Package%20Control.sublime-package
 pause
